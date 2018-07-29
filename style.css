@@ -1,0 +1,39 @@
+body{
+	
+	background-image: url(https://s3.amazonaws.com/skinner-production/stories/featured_images/000/015/171/large/faces-2679740_1280.jpg?1522285295);
+	background-size:cover;
+	font-size: 30px;
+
+}
+
+.usernam{
+	text-align: center;
+	margin-top: 10%;
+	margin-right: 30%;
+	margin-left: 30%;
+	/*background-image:url(https://s3.amazonaws.com/skinner-production/stories/featured_images/000/015/171/large/faces-2679740_1280.jpg?1522285295); 
+*/	opacity: 2.5;
+}
+
+.txt{
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 2px;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+
+input{
+	
+	margin-left: 3px;
+	border-radius: 20px;
+}
+
+.sign{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 20px;	
+	border-radius: 50px;
+	color: grey;
+}
+
